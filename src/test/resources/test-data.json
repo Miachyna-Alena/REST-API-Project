@@ -1,0 +1,17 @@
+{
+  "POSTS_ENDPOINT": "/posts/",
+  "USERS_ENDPOINT": "/users/",
+  "VALID_POST_ID": 99,
+  "INVALID_POST_ID": 150,
+
+  "NEW_POST_USERID": 1,
+  "NEW_POST_TITLE_LENGTH": 9,
+  "NEW_POST_BODY_LENGTH": 9,
+
+  "POST_USERID": 10,
+  "POST_ID": 99,
+
+  "USER_ID": 5,
+
+  "PATH_TO_USER_DATA_FILE": "src/test/resources/user-data.json"
+}
